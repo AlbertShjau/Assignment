@@ -1,0 +1,7 @@
+Day 1 assignment.
+
+principle = 500
+rate = 5
+time = 8
+Simple_interest = (principle  * rate  * time ) / 100
+print("The simple interest is:", Simple_interest)
